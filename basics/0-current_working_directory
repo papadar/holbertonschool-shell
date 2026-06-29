@@ -1,2 +1,2 @@
-#! /root/holbertonschool-shell/basics
+#!/bin/bash
 pwd
